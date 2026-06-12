@@ -31,7 +31,7 @@ Kör Nokta Denetimi (NASA Uydu): Kameraların tamamen dışında kalan gizli bö
  Dosya Yapısı
 KentselEmisyonDemo02_1.ipynb: Geliştirdiğim yapay zeka model mimarisinin, veri işleme boru hatlarının (pipeline) ve çok katmanlı analiz sisteminin çalıştığı ana notebook dosyası.
 
-README.md: Proje dokümantasyonu.
+
 
  Nasıl Çalıştırılır?
 Sistemi test etmek ve analiz süreçlerini incelemek için aşağıdaki adımları takip edebilirsiniz:
